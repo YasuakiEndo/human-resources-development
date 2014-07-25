@@ -1,6 +1,9 @@
 package jp.co.brainnet.skillcheck;
 
-public class Kuku {
+/**
+ * 九九表を表示するプログラム
+ */
+public class SkillCheck4 {
 	public static void main(String[] args) {
 		StringBuilder sb = new StringBuilder();
 		for (int i = 1; i <= 9; i++) {
