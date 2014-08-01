@@ -1,9 +1,9 @@
-package jp.co.brainnet.skillcheck;
+package jp.co.brainnet.skillcheck.a;
 
 /**
  * 九九表を表示するプログラム
  */
-public class SkillCheck4 {
+public class Question4 {
 	public static void main(String[] args) {
 		StringBuilder sb = new StringBuilder();
 		for (int i = 1; i <= 9; i++) {

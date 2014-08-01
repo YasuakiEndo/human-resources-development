@@ -1,4 +1,4 @@
-package jp.co.brainnet.skillcheck;
+package jp.co.brainnet.skillcheck.a;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -7,7 +7,7 @@ import java.util.Calendar;
 /**
  * カレンダーを表示するプログラム
  */
-public class SkillCheck6 {
+public class Question6 {
   public static void main(String[] args) {
     try (BufferedReader br
     		= new BufferedReader(new InputStreamReader(System.in))) {

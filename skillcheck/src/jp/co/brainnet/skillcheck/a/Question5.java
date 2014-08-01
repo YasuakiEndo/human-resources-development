@@ -1,9 +1,9 @@
-package jp.co.brainnet.skillcheck;
+package jp.co.brainnet.skillcheck.a;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public final class SkillCheck5 {
+public final class Question5 {
 
 	public static void main(final String[] args) {
 

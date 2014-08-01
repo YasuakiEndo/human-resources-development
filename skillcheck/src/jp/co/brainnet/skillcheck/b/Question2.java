@@ -1,4 +1,4 @@
-package jp.co.brainnet.skillcheck;
+package jp.co.brainnet.skillcheck.b;
 
 import java.sql.*;
 

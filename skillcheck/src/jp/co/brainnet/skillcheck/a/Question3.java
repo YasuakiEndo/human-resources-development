@@ -1,12 +1,12 @@
-package jp.co.brainnet.skillcheck;
+package jp.co.brainnet.skillcheck.a;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /** 掛け算のリスト */
-public final class SkillCheck3 {
+public final class Question3 {
 
-  private SkillCheck3() {
+  private Question3() {
   }
 
   public static void main(final String[] args) {

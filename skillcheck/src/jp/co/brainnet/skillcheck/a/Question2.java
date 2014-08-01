@@ -1,12 +1,12 @@
-package jp.co.brainnet.skillcheck;
+package jp.co.brainnet.skillcheck.a;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /** 数の比較 */
-public final class SkillCheck2 {
+public final class Question2 {
 
-	private SkillCheck2() {
+	private Question2() {
 	}
 
 	public static void main(final String[] args) {
