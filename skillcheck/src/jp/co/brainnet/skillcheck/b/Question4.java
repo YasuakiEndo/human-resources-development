@@ -12,13 +12,11 @@ public class Question4 {
   public static void main(String[] args) {
 
     String condition = null;
-    try (BufferedReader br = new BufferedReader(
-        new InputStreamReader(System.in))) {
+    try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
       condition = br.readLine();
     } catch (Exception e) {
       e.printStackTrace();
     }
-
     String sql = "SELECT * FROM accounts WHERE" + condition;
     try (
         Connection con = DriverManager.getConnection(url, user, password);
